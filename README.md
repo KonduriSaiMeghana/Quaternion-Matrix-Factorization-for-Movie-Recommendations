@@ -1,4 +1,4 @@
-# Quaternion Matrix Factorization for Movie Recommendations (Internship)
+# Quaternion Matrix Factorization for Movie Recommendations 
 
 This project implements a **Quaternion-based Matrix Factorization (QMF)** model for collaborative filtering using **PyTorch**.  
 Unlike traditional vector embeddings, quaternion embeddings capture richer user–item interactions in a 4D hypercomplex space.
